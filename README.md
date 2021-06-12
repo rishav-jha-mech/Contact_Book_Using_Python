@@ -7,8 +7,15 @@
 ```
 pip install virtualenv
 ```
+### Step No. 2 - Place the virtual environment using this command
 
-### Step No. 2 - Activate virtual environment (you have to reach to the activate.bat file in env/Scripts/)
+```
+virtualenv env
+```
+
+#### This will create an env folder.
+
+### Step No. 3 - Activate virtual environment (you have to reach to the activate.bat file in env/Scripts/)
 
 ```
 cd env
@@ -18,7 +25,7 @@ activate (if using CMD) / . activate (if using GitBash)
 
 #### Now the virtual environment is created. Now you can see (env) at the starting of your path (ex- "(env)C:Users/username/Desktop/ProjectFolder")
 
-### Step No. 3 - Comeback to  the project folder
+### Step No. 4 - Comeback to  the project folder
 
 ```
 (env)projecrrootfolder/env/Scripts/ cd ..
@@ -27,7 +34,7 @@ activate (if using CMD) / . activate (if using GitBash)
 ```
 #### you just need to type cd .. and enter two times to get to the project root folder
 
-### Step No. 4 - Install the requirements from requirements.txt file
+### Step No. 5 - Install the requirements from requirements.txt file
 
 ```
 python -m pip install -r requirements.txt
@@ -35,7 +42,7 @@ python -m pip install -r requirements.txt
 
 #### Now  all the necessary dependencies will be installed from requirements.txt file
 
-### Step No.5 - Now its time to run our Contact Book application
+### Step No.6 - Now its time to run our Contact Book application
 
 ```
 python contact.py
