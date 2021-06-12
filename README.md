@@ -45,7 +45,7 @@ python -m pip install -r requirements.txt
 ### Step No.6 - Now its time to run our Contact Book application
 
 ```
-python contact.py
+python contacts.py
 ```
 
 #### Now the app will launch and you can use it.
