@@ -50,11 +50,6 @@ python contacts.py
 
 #### Now the app will launch and you can use it.
 
-
-
-![thumbnailimage](thumb.png)
-
-
-
+![thumb](thumb.png)
 
 # EDITS ARE WELCOME
