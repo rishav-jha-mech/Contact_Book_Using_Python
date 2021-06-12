@@ -52,7 +52,7 @@ python contacts.py
 
 
 
-![thumbnail image](a-image.png)
+![thumbnailimage](a-image.png)
 
 
 
