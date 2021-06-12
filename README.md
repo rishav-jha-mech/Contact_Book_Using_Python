@@ -43,4 +43,4 @@ python contact.py
 
 #### Now the app will launch and you can use it.
 
-#EDITS ARE WELCOME
+# EDITS ARE ALWAYS WELCOME
